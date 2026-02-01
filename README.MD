@@ -27,8 +27,8 @@ ProjectGem - это полнофункциональное чат-приложе
 
 1. **Клонируйте репозиторий:**
 ```bash
-git clone <repository-url>
-cd test_ex
+git clone https://github.com/Pavlentiyys/projectgem.git
+cd projectgem
 ```
 
 2. **Установите зависимости для клиента:**
